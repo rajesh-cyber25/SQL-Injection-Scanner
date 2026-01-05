@@ -90,13 +90,19 @@ Returned multiple database records, confirming SQL Injection.
 🔐 Ethical Disclaimer
 
 This project is created only for learning and authorized testing.
+
 ❌ Illegal usage on real-world targets is strictly prohibited.
+
 ✅ Tested only on DVWA (local lab).
 
 💡 Future Improvements
 
 Blind SQL Injection detection
+
 POST parameter scanning
+
 Automated parameter discovery
+
 Rate limiting & concurrency control
+
 Secure coding recommendations
