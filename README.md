@@ -70,8 +70,11 @@ Enter parameter name (e.g., id): id
 📤 Sample Output
 
 [VULNERABLE] Payload worked → 1' OR '1'='1
+
 [VULNERABLE] Payload worked → 1' OR 1=1--
+
 [VULNERABLE] Payload worked → 1" OR "1"="1
+
 [+] Scan completed.
 
 📸 Proof of Vulnerability
