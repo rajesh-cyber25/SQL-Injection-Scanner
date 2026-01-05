@@ -99,4 +99,4 @@ This project is created only for learning and authorized testing.
 
 💡 Future Improvements
 
-Blind SQL Injection detection,POST parameter scanning,Automated parameter discovery,Rate limiting & concurrency control,Secure coding recommendations
+Blind SQL Injection detection,POST parameter scanning,Automated parameter discovery,Rate limiting & concurrency control,Secure coding recommendations.
