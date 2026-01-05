@@ -63,14 +63,11 @@ python sql_injection_scanner.py
 
 Step 4: Input example
 
-Text
-
 Enter base URL (without parameters): http://localhost/DVWA/vulnerabilities/sqli/
+
 Enter parameter name (e.g., id): id
 
 📤 Sample Output
-
-Text
 
 [VULNERABLE] Payload worked → 1' OR '1'='1
 [VULNERABLE] Payload worked → 1' OR 1=1--
